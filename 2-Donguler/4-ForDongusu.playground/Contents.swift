@@ -56,3 +56,11 @@ for i in degerler {
         print("5 sayisi bulundu")
     }
 }
+
+// Örnek
+var i : Int = 2
+var mesaj = "Swift"
+//print(mesaj.count)
+for i in 1...mesaj.count {
+    print(i)
+}
